@@ -1,2 +1,2 @@
-# avaliacoes-prog1-uespi
-Avaliações de Programação I - Bloco II Uespi
+# Avaliações de Programação I
+Avaliações da disciplina de Programação I - Bloco II Uespi
