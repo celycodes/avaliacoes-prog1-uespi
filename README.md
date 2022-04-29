@@ -9,11 +9,12 @@
 ### Repositório Curso de Python 
 - [curso-python-exercicios](https://github.com/celycodes/curso-python-exercicios)
 
+
 #### Caso queira um  realizar um projeto comigo (ou até mesmo bater papo), não hesite em me enviar uma mensagem, acesse o link das minhas redes sociais abaixo: ⤵️
 
-- [Instagram](instagram.com/celycodes)
+- [Instagram](https://www.instagram.com/celycodes)
 
-- [Twitter](twitter.com/ceIenny)
+- [Twitter](https://twitter.com/ceIenny)
 
 - [GitHub](https://github.com/celenny)
 
