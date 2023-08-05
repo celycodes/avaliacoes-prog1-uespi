@@ -1,4 +1,4 @@
-![prog1](https://user-images.githubusercontent.com/70456452/160476195-197a1686-d120-4de3-87e3-45639761ba2b.png)
+![prog1](https://github.com/celycodes/avaliacoes_prog4_uespi/assets/70456452/e514e9c9-a016-40f9-92b0-466c05c68bc9)
 
 ## Disponíveis nesse repositório
 - [Prova 1](https://github.com/celycodes/avaliacoes-prog1-uespi/tree/main/prova%201)
