@@ -14,8 +14,6 @@
 
 - [Instagram](https://www.instagram.com/celycodes)
 
-- [Twitter](https://twitter.com/ceIenny)
-
 - [GitHub](https://github.com/celenny)
 
 - [LinkedIn](https://www.linkedin.com/in/celenny)
